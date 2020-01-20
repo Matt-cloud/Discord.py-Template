@@ -1,0 +1,23 @@
+# Discord.py
+discord.py[voice]
+
+# Logger
+colorama
+termcolor
+
+# Database
+pymongo
+dnspython
+
+# VSCODE
+pylint
+autopep8
+
+# Flask
+flask 
+flask-socketio 
+
+# Web
+requests
+BeautifulSoup4
+favicon
